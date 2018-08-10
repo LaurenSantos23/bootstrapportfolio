@@ -11,6 +11,11 @@ body {
   }
   
   /* general */
+
+  .responsive{
+    width:100%;
+    height:auto;
+  }
   
   .container {
     width: 100%;
@@ -145,10 +150,10 @@ body {
   }
   
   .work:nth-child(even) {
-    margin-right: 40px;
-  }
-  
-  .work img {
+      margin-right: 40px;
+    }
+    
+    .work img {
     width: 100%;
     border: 0 none;
     opacity: 0.8;
@@ -170,7 +175,7 @@ body {
   
   .auth-image {
     float: left;
-    width: 200px;
+    width: 100%;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
