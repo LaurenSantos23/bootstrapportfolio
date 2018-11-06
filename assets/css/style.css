@@ -12,11 +12,16 @@ body {
   
   /* general */
 
-  .responsive{
+   .responsive {
     width:100%;
-    height:auto;
+    height:300px;
+
+  } 
+
+  /* .responsive {
+    margin: 20px auto;
   }
-  
+   */
   .container {
     width: 100%;
     max-width: 960px;
