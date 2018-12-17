@@ -163,7 +163,7 @@ body {
       margin-right: 40px;
     }
     
-    .work img {
+  .work img {
     width: 100%;
     border: 0 none;
     opacity: 0.8;
@@ -185,8 +185,12 @@ body {
 
    #middle-img {
     margin-left:20px;
-    margin-right:15px;
+    margin-right:20px;
   } 
+
+  #left-img {
+    margin-left:20px;
+  }
   
   .auth-image {
     float: left;
